@@ -1,4 +1,4 @@
-Python 101 Labbook Solution Code by Witsarut Wongsim</br>
+
 Welcome to my GitHub repository for the "Python 101 Labbook Solution Code"!
 In this repository, you will find the solutions to the exercises from a book written by professors and students of the Department of Computer Engineering at Chulalongkorn University. The book is designed to serve as an introduction to programming using the Python language as a tool. The lessons are divided into chapters, each covering various topics, and include both instructional videos and exercises to practice and reinforce understanding.
 
@@ -15,3 +15,6 @@ Labbook : https://www.cp.eng.chula.ac.th/~somchai/python101/python101_labbook.ht
 E-learning : https://www.cp.eng.chula.ac.th/~somchai/python101/
 
 ![python101](https://user-images.githubusercontent.com/61573397/213209551-7944e6f6-b681-4aee-b236-4374682fbe7d.JPG)
+
+
+Python 101 Labbook Solution Code by Witsarut Wongsim</br>
